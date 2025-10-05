@@ -7,6 +7,7 @@ Welcome to the **Nexcent Landing Page Demo** — a modern, responsive, and minim
 
 ---
 
+<img width="1896" height="5586" alt="Nexcent" src="https://github.com/user-attachments/assets/961cdf01-83bd-45e1-8042-2fa6141cc870" />
 
 ---
 
