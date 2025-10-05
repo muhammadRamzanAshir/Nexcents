@@ -1,0 +1,16 @@
+@import url('./variable.css');
+
+@media (max-width: 700px) {
+
+    nav ul li a{
+        display: flex !important;
+        align-items: center !important;
+        text-align: center !important;
+        justify-content: center !important
+    }
+
+    nav ul li a:hover{
+        color: var(--color-primary) !important;
+    }
+
+}

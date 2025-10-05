@@ -1,0 +1,16 @@
+:root{
+    --color-primary:            #35b14a;
+    --color-primary-dark:       #2d9a3f;
+    --color-dark:               #263238;
+    --color-text:               #4b5563;
+    --color-heading:            #222831;
+    --color-bg-light:           #f6f8f9;
+    --color-border:  rgba(0, 0, 0, 0.06);
+    --spacing-unit:  16px;
+    --max-width: 1200px;
+    --border-radius: 12px;
+    --border-radius-btn: 8px;
+    --shadow-subtle:  0 8px 24px rgba(32, 40, 45, 0.06);
+    --shadow-hover:  0 12px 32px rgba(32, 40, 45, 0.12);
+    --transition: all 0.3s ease;
+}
