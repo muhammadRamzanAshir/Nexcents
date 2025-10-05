@@ -56,7 +56,7 @@ You are **not permitted** to:
 - Extract, modify, or reuse source elements  
 
 For collaboration or licensing inquiries, please contact:  
-📩 **youremail@example.com**
+📩 **ashirramzan2@gmail.com**
 
 ---
 
